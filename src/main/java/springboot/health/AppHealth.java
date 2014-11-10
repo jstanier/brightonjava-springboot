@@ -3,7 +3,9 @@ package springboot.health;
 import org.springframework.boot.actuate.health.Health;
 import org.springframework.boot.actuate.health.Health.Builder;
 import org.springframework.boot.actuate.health.HealthIndicator;
+import org.springframework.stereotype.Component;
 
+@Component
 public class AppHealth implements HealthIndicator {
 
     private int freeDiskSpace = 1000;
