@@ -10,4 +10,4 @@ Demo of Spring Boot at Brighton Java, 10th November 2014. In the demo I showed t
 * Using [RestRepositories](http://projects.spring.io/spring-data-rest/) to quickly get access to our data
 * Creating an endpoint to put data into our webapp
 
-The rough structure of this live demo was borrowed from [Josh Long](http://spring.io/team/jlong) who did a better job than me, so thanks Josh.
+The rough structure of this live demo was borrowed from [Josh Long](http://spring.io/team/jlong) who did a better job than me, so thanks Josh. Also, if you want to run this, you'll need to install and run [MongoDB](http://www.mongodb.org/downloads).
